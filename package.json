@@ -17,6 +17,7 @@
 	},
 	"dependencies": {
 		"@astrojs/netlify": "^8.2.6",
+		"@astrojs/node": "^11.1.8",
 		"@astrojs/vercel": "^11.0.10"
 	},
 	"overrides": {
