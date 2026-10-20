@@ -29,6 +29,7 @@ export default defineConfig({
 				grid: 'storyblok/Grid',
 				feature: 'storyblok/Feature',
 				teaser: 'storyblok/Teaser',
+		        article: "storyblok/Article",
 		        place_ref: "storyblok/PlaceRef",
 		        text_section: "storyblok/TextSection",
 			},
